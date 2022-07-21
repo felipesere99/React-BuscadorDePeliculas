@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-BuscadorDePeliculas/static/css/main.d027f769.css",
+    "main.js": "/React-BuscadorDePeliculas/static/js/main.049773f2.js",
+    "index.html": "/React-BuscadorDePeliculas/index.html",
+    "main.d027f769.css.map": "/React-BuscadorDePeliculas/static/css/main.d027f769.css.map",
+    "main.049773f2.js.map": "/React-BuscadorDePeliculas/static/js/main.049773f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d027f769.css",
+    "static/js/main.049773f2.js"
+  ]
+}
